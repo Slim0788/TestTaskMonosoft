@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Monosoft</string>
+
+    <string name="open_weather_key">82bf1ae11d0d79169c84285f5ffb9057</string>
+
+    <!--  Location -->
+    <string name="your_city_name">Your city name</string>
+    <string name="my_location">My location</string>
+    <string name="show_weather">Show weather</string>
+
+    <!-- Weather details -->
+    <string name="weather">Weather</string>
+    <string name="city">City:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+    <string name="unit_temperature">°C</string>
+    <string name="unit_speed">m/s</string>
+    <string name="unit_humidity">%</string>
+    <string name="unit_pressure">hpa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
