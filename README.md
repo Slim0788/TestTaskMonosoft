@@ -1,1 +1,1 @@
-# This is test task for Monosoft LLC
+# This is the test task for Monosoft
