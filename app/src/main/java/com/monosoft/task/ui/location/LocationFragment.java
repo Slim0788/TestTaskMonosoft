@@ -131,10 +131,10 @@ public class LocationFragment extends Fragment {
 
     private void goToWeatherDetails() {
         WeatherDetailsFragment fragment;
-        if (latitude != 0 && longitude != 0) {
-            fragment = WeatherDetailsFragment.newInstance(latitude, longitude);
-        } else {
+        if (!city.trim().equals("")) {
             fragment = WeatherDetailsFragment.newInstance(city);
+        } else {
+            fragment = WeatherDetailsFragment.newInstance(latitude, longitude);
         }
         getParentFragmentManager().beginTransaction()
                 .addToBackStack(null)

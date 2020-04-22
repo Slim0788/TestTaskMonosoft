@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Monosoft</string>
+    <string name="app_name">Sergey Sverchkov Test Task</string>
 
     <string name="open_weather_key">82bf1ae11d0d79169c84285f5ffb9057</string>
 
@@ -18,7 +18,5 @@
     <string name="unit_speed">m/s</string>
     <string name="unit_humidity">%</string>
     <string name="unit_pressure">hpa</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
